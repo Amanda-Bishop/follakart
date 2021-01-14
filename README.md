@@ -1,5 +1,6 @@
 # Follakart  
-An object tracking robot made to simulate a shopping cart that follows the user. Created for a SE 101 project.  
+An object tracking robot made to simulate a shopping cart that follows the user.  
+Created for a SE 101 project.  
 
 ## General Notes
 
